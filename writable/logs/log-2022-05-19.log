@@ -1,0 +1,30 @@
+CRITICAL - 2022-05-19 22:19:04 --> You must set the database table to be used with your query.
+#0 C:\xampp1\htdocs\crud_ajax_ardhi1\system\Model.php(1206): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp1\htdocs\crud_ajax_ardhi1\system\Model.php(1714): CodeIgniter\Model->builder()
+#2 C:\xampp1\htdocs\crud_ajax_ardhi1\app\Controllers\poin.php(14): CodeIgniter\Model->__call('orderBy', Array)
+#3 C:\xampp1\htdocs\crud_ajax_ardhi1\system\CodeIgniter.php(914): App\Controllers\Poin->index()
+#4 C:\xampp1\htdocs\crud_ajax_ardhi1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Poin))
+#5 C:\xampp1\htdocs\crud_ajax_ardhi1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp1\htdocs\crud_ajax_ardhi1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp1\htdocs\crud_ajax_ardhi1\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp1\\htdoc...')
+#8 {main}
+CRITICAL - 2022-05-19 22:19:06 --> You must set the database table to be used with your query.
+#0 C:\xampp1\htdocs\crud_ajax_ardhi1\system\Model.php(1206): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp1\htdocs\crud_ajax_ardhi1\system\Model.php(1714): CodeIgniter\Model->builder()
+#2 C:\xampp1\htdocs\crud_ajax_ardhi1\app\Controllers\poin.php(14): CodeIgniter\Model->__call('orderBy', Array)
+#3 C:\xampp1\htdocs\crud_ajax_ardhi1\system\CodeIgniter.php(914): App\Controllers\Poin->index()
+#4 C:\xampp1\htdocs\crud_ajax_ardhi1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Poin))
+#5 C:\xampp1\htdocs\crud_ajax_ardhi1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp1\htdocs\crud_ajax_ardhi1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp1\htdocs\crud_ajax_ardhi1\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp1\\htdoc...')
+#8 {main}
+CRITICAL - 2022-05-19 22:19:13 --> You must set the database table to be used with your query.
+#0 C:\xampp1\htdocs\crud_ajax_ardhi1\system\Model.php(1206): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp1\htdocs\crud_ajax_ardhi1\system\Model.php(1714): CodeIgniter\Model->builder()
+#2 C:\xampp1\htdocs\crud_ajax_ardhi1\app\Controllers\poin.php(14): CodeIgniter\Model->__call('orderBy', Array)
+#3 C:\xampp1\htdocs\crud_ajax_ardhi1\system\CodeIgniter.php(914): App\Controllers\Poin->index()
+#4 C:\xampp1\htdocs\crud_ajax_ardhi1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Poin))
+#5 C:\xampp1\htdocs\crud_ajax_ardhi1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp1\htdocs\crud_ajax_ardhi1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp1\htdocs\crud_ajax_ardhi1\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp1\\htdoc...')
+#8 {main}
